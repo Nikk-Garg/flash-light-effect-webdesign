@@ -13,7 +13,7 @@ const Exhibits = () => {
       </p>
       </div>
       <div className='two'>
-        <img src='src/assets/exhibit.png'></img>
+        <img src='/assets/exhibit.png'></img>
         </div>
         </div>
         </>

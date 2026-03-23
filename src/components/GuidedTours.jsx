@@ -14,7 +14,7 @@ const GuidedTours = () => {
       </p>
       </div>
       <div className='four'>
-        <img src='src/assets/guide.png'></img>
+        <img src='/assets/guide.png'></img>
         </div>
         </div>
         </>

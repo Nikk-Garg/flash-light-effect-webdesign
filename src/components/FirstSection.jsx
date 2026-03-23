@@ -32,7 +32,7 @@ const FirstSection = () => {
       <div ref={overlayRef} className="overlay"></div>
 
     <div className='image'>
-        <img src='src\assets\first.png'></img>
+        <img src='\assets\first.png'></img>
     </div>
     <div className='content'>
         <h1>THE ATHENIAN <br/> WISDOM</h1>

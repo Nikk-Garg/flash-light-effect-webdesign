@@ -10,7 +10,7 @@ const About = () => {
         <p>Step into the world of Neptune, the god of the sea, as we<br /> celebrate his majestic power throungh classical art. <br />This exhibit features a stunning marble statue that<br /> captures Neptune in his full splendor, symbolzing beth <br />power and dominance. Crafted with exquistie detail, our<br /> showcase invites you to explore the legacy of a deity<br /> revered as master of the oceans throughout ancient<br /> mythology.</p>
       </div>
       <div className='one'>
-        <img src='src/assets/about.png'></img>
+        <img src='/assets/about.png'></img>
       </div>
     </div>
     </>

@@ -16,7 +16,7 @@ const Schedule = () => {
       </p>
       </div>
       <div className='three'>
-        <img src='src/assets/schedule.png'></img>
+        <img src='assets/schedule.png'></img>
         </div>
         </div>
         </>

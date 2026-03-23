@@ -15,7 +15,7 @@ const Contact = () => {
       <p>Let us guide you - your journey into ancient wisdom<br/> begars with a conversation.</p>
       </div>
       <div className='five'>
-        <img src='src/assets/contact.png'></img>
+        <img src='/assets/contact.png'></img>
         </div>
         </div>
         </>
